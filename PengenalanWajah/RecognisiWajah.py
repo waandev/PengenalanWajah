@@ -15,7 +15,7 @@ faceRecognizer.read(latihDir+'/training.xml')
 font = cv2.FONT_HERSHEY_SIMPLEX
 
 id = 0
-names = ['Tidak Diketahui','Muhammad Aswan','Nama Lain']
+names = ['Muhammad Aswan','Nama Lain']
 
 minWidth = 0.1*cam.get(3)
 minHeight = 0.1*cam.get(4)
